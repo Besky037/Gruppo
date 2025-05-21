@@ -95,4 +95,5 @@ Il programma consente di:
 
 ## 🧑‍💻 Autore
 Alessandro Lopardo, Alessio Macrì e Leo Betti
+
 *Creato come esercizio avanzato per corsi di programmazione ad oggetti in C#.*

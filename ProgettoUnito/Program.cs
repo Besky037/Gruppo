@@ -37,19 +37,16 @@ public class Program
             switch (scelta)
             {
                 case 1:
-
+                    AggiungiCorso(1)
                     break;
-
                 case 2:
-
+                    AggiungiCorso(2)
                     break;
-
                 case 3:
-
+                    AggiungiCorso(3)
                     break;
-
                 case 4:
-
+                    
                     break;
 
                 case 5:

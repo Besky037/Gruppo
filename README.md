@@ -1,5 +1,4 @@
-# Gruppo
-Ex Gruppo 21/5/2025
+# Gruppo Lopardo Macrì Betti
 
 # 🎨 Gestione Corsi Artistici Multidisciplinari (C#)
 

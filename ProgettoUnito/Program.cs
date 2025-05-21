@@ -71,6 +71,13 @@ public class CorsoPittura : Corso
     }
 }
 
+public class CorsoDanza : Corso
+{
+    public string tecnica;
+    
+    public CorsoDanza(string )
+}
+
 
 public class Program
 {

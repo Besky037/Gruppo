@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Gruppo\ProgettoUnito\bin\Debug\net9.0\ProgettoUnito.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Gruppo\ProgettoUnito\bin\Debug\net9.0\ProgettoUnito.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Gruppo\ProgettoUnito\bin\Debug\net9.0\ProgettoUnito.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Gruppo\ProgettoUnito\bin\Debug\net9.0\ProgettoUnito.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Gruppo\ProgettoUnito\bin\Debug\net9.0\ProgettoUnito.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Gruppo\ProgettoUnito\obj\Debug\net9.0\ProgettoUnito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Gruppo\ProgettoUnito\obj\Debug\net9.0\ProgettoUnito.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Gruppo\ProgettoUnito\obj\Debug\net9.0\ProgettoUnito.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Gruppo\ProgettoUnito\obj\Debug\net9.0\ProgettoUnito.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Gruppo\ProgettoUnito\obj\Debug\net9.0\ProgettoUnito.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Gruppo\ProgettoUnito\obj\Debug\net9.0\ProgettoUnito.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Gruppo\ProgettoUnito\obj\Debug\net9.0\refint\ProgettoUnito.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Gruppo\ProgettoUnito\obj\Debug\net9.0\ProgettoUnito.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Gruppo\ProgettoUnito\obj\Debug\net9.0\ProgettoUnito.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Gruppo\ProgettoUnito\obj\Debug\net9.0\ref\ProgettoUnito.dll

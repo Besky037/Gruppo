@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProgettoUnito")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cef3c1aa7f9b92ab5a70c75351a1c3dde2e684d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad082f53087dcb3a0971600d261540290d74a600")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProgettoUnito")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProgettoUnito")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

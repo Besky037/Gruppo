@@ -1,4 +1,11 @@
+<<<<<<< Updated upstream
 ﻿public class Corso
+=======
+﻿using System;
+using System.Globalization;
+
+public class Corso
+>>>>>>> Stashed changes
 {
     public string nomeCorso;
     public int durataOre;
@@ -22,7 +29,14 @@
 
     public Corso(string n, int du, string doc, List<string> s)
     {
+<<<<<<< Updated upstream
         
+=======
+        nomeCorso = n;
+        durataOre = du;
+        docente = doc;
+        studenti = s;
+>>>>>>> Stashed changes
     }
 }
 
@@ -45,3 +59,58 @@ public class CorsoPittura : Corso
         Console.WriteLine($"Si lavora su tela con tecnica: {tecnica}");
     }
 }
+<<<<<<< Updated upstream
+=======
+
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        bool x = true;
+        do
+        {
+            int scelta = 0;
+
+            switch (scelta)
+            {
+                case 1:
+
+                    break;
+
+                case 2:
+
+                    break;
+
+                case 3:
+
+                    break;
+
+                case 4:
+
+                    break;
+
+                case 5:
+
+                    break;
+
+                case 6:
+
+                    break;
+
+                case 7:
+
+                    break;
+
+                case 8:
+
+                    break;
+            }
+        }
+        while (x);
+
+    }
+}
+
+
+>>>>>>> Stashed changes

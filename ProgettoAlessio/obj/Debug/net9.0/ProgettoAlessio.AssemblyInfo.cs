@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProgettoAlessio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed34f03bd3979597a7d9a740e9a4625c626e5a7b")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+303c7b0365bd33a20d182dea3dd964824d924d64")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("ProgettoAlessio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProgettoAlessio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

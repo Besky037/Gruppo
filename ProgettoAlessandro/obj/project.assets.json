@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+    "C:\\Users\\zxioo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Gruppo\\ProgettoAlessandro\\ProgettoAlessandro.csproj",
+      "projectUniqueName": "C:\\Users\\zxioo\\Git\\Gruppo\\ProgettoAlessandro\\ProgettoAlessandro.csproj",
       "projectName": "ProgettoAlessandro",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Gruppo\\ProgettoAlessandro\\ProgettoAlessandro.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Gruppo\\ProgettoAlessandro\\obj\\",
+      "projectPath": "C:\\Users\\zxioo\\Git\\Gruppo\\ProgettoAlessandro\\ProgettoAlessandro.csproj",
+      "packagesPath": "C:\\Users\\zxioo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\zxioo\\Git\\Gruppo\\ProgettoAlessandro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\zxioo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"

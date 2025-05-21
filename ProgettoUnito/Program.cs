@@ -23,3 +23,48 @@ public class Corso
     }
 }
 
+public class Program
+{
+    public static void Main()
+    {
+        Console.WriteLine("Benvenuto nel Menu");
+        Console.WriteLine("1. Aggiungi un Corso di Musica\n2Aggiungi un corso di Pittura\n3.Aggiungi un corso di Danza\n4.Aggiungi studente a un corso\n5.Visualizza tutti i corsi\n6.Cerca Corsi per nome docente\n7.Esegui Metodo Speciale di un corso\n0.Esci");
+        int scelta = int.Parse(Console.ReadLine());
+
+    }
+
+    public static Corso AggiungiCorso(int scelta)
+    {
+        List<string> studenti = new List<string>();
+        Console.Write("Inserisci il nome del corso: ");
+        string nome = Console.ReadLine();
+        Console.Write("Inserisci il durata ore: ");
+        int ore = int.Parse(Console.ReadLine());
+        Console.Write("Inserisci il nome del corso: ");
+        string docente = Console.ReadLine();
+
+        if (scelta == 1)
+        {
+            Console.WriteLine("Inserisci lo strumento del corso: ");
+            string strumento = Console.ReadLine();
+
+            return new CorsoMusica(nome, ore, docente, studenti, strumento);
+        }
+        else if (scelta == 2)
+        {
+            Console.WriteLine("Inserisci la tecnica del corso: ");
+            string tecnica = Console.ReadLine();
+
+            return new CorsoPittura(nome, ore, docente, studenti, tecnica);
+        }
+        else if (scelta == 3)
+        {
+            Console.WriteLine("Inserisci lo stile del corso: ");
+            string danza = Console.ReadLine();
+
+            return new CorsoDanza(nome, ore, docente, studenti, danza);
+        }
+    }
+    
+}
+

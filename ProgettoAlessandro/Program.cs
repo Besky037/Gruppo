@@ -34,7 +34,8 @@ public class CorsoMusica : Corso
 {
     public string strumento;
 
-    public CorsoMusica(string nomeCorso, int durataOre, string docente, List<string> studenti, string str) : base(nomeCorso, durataOre, docente, studenti)
+    public CorsoMusica(string nomeCorso, int durataOre, string docente, List<string> studenti, string str) 
+    : base(nomeCorso, durataOre, docente, studenti)
     {
         strumento = str;
     }

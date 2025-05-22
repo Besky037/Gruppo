@@ -29,7 +29,7 @@ public class Corso
     /// <returns>Restituisce la descrizione del corso</returns>
     public override string ToString()
     {
-        return $"Nome Corso:{nomeCorso} Durata Ore:{durataOre} Docente: {docente}";
+        return $"Nome Corso:{nomeCorso} Durata Ore:{durataOre} Docente: {docente} Numero di Studenti:{studenti.Count()}";
     }
 
     /// <summary>
